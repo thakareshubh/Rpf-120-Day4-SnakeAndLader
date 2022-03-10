@@ -1,0 +1,16 @@
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.csproj.AssemblyReference.cache
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.AssemblyInfoInputs.cache
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.AssemblyInfo.cs
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.csproj.CoreCompileInputs.cache
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.exe
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.deps.json
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.runtimeconfig.json
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.runtimeconfig.dev.json
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.dll
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\bin\Debug\net5.0\SnakeAndLader.pdb
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.dll
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\refint\SnakeAndLader.dll
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.pdb
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\SnakeAndLader.genruntimeconfig.cache
+E:\.net\Rpf-120-Day4-SnakeAndLader\SnakeAndLader\SnakeAndLader\obj\Debug\net5.0\ref\SnakeAndLader.dll
